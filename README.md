@@ -2,15 +2,6 @@
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/6e381433-47ce-4041-bc0d-8a1a7ef81041)
+It is a Body Mass Index Calculator which takes input of your height and weight in cm and kg accordingly
+and on clicking calculate It provides the number of Index denoted as BMI with a short description that you are under weight or over weight or normal weight.
